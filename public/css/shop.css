@@ -1,0 +1,14 @@
+.circle-red, .circle-green {
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    margin: auto;
+}
+
+.circle-green {
+    background-color: green;
+}
+
+.circle-red {
+    background-color: red;
+}
